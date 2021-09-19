@@ -1,0 +1,50 @@
+/*Default css file*/
+
+/*styling for the whole page goes here*/
+body {
+	font-size: 16px;
+    background-color: #800020;
+	color: #E4EDF1;
+}
+
+/*styling for the page title*/
+h1 {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 30px;
+    text-align: center;
+    background-color: #722F37;
+	color: #f8f8f8;
+}
+h2 {
+	font-weight: bold;
+	font-style: italic;
+	
+}
+
+/*styling for the bottom copyright information*/
+footer {
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+}
+.center{
+	text-align: center;
+	}
+.border{
+	border-bottom: 5px solid grey;
+	border-left:5px solid grey;
+	border-right:5px solid grey;
+	border-top:5px solid grey;
+	
+}
+
+img{
+	height:560;
+	width:890;
+}
+
+a {
+color: grey;
+}
+
